@@ -21,6 +21,9 @@ def function_C(n1, n2, operator):
     return problem, answer
 
 def math_quiz():
+    """
+    The values has been changed in t_q as a int
+    """
     score = 0
     t_q = 3
 
