@@ -6,7 +6,6 @@ setup(
     packages=[''],
     install_requires=[
         'numpy',
-        'unittest',
     ],
     author='Javier Munoz',
     author_email='javier.munoz@fau.de',
